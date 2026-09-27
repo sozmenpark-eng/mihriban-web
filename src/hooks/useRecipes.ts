@@ -6,6 +6,8 @@ const RECIPE_PARTS = [
   '/recipes-1.json',
   '/recipes-2.json',
   '/recipes-3.json',
+  '/recipes-4.json',
+  '/recipes-5.json',
 ]
 
 export function useRecipes() {
