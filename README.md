@@ -17,7 +17,7 @@ npm run build
 npm run preview
 ```
 
-Tarifler `public/recipes-*.json` üzerinden yüklenir. Tabak görselleri `public/plates/` altındadır.
+Tarifler `src/recipeData/` içinde gömülü (APK'dan kurtarılan JSON). Tabak görselleri `public/plates/` altındadır.
 
 ## Stack
 
